@@ -8,3 +8,4 @@
 [lab 07](https://github.com/moheethahmed/2203A52245/blob/main/LAB07.ipynb)
 [lab 08](https://github.com/moheethahmed/AIML-2024/blob/main/AIML%20LAB-08%20.ipynb)
 [lab 09](https://github.com/moheethahmed/AIML-2024/blob/main/AIML_LAB-09.ipynb)
+[lab 10](https://github.com/moheethahmed/AIML-2024/blob/main/Lab10-KMeans.ipynb)
