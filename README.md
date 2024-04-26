@@ -6,3 +6,4 @@
 [lab 05](https://github.com/moheethahmed/2203A52245/blob/main/Lab05.ipynb)
 [lab 06](https://github.com/moheethahmed/2203A52245/blob/main/Lab06.ipynb)
 [lab 07](https://github.com/moheethahmed/2203A52245/blob/main/LAB07.ipynb)
+[lab 08](https://github.com/moheethahmed/AIML-2024/blob/main/AIML%20LAB-08%20.ipynb)
